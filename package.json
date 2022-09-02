@@ -4,6 +4,9 @@
   "author": "Fuji Nakahara <fujinakahara2032@gmail.com>",
   "license": "CC-BY-4.0",
   "private": true,
+  "scripts": {
+    "preview": "zenn preview"
+  },
   "devDependencies": {
     "zenn-cli": "^0.1.121"
   }
