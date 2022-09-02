@@ -1,0 +1,10 @@
+{
+  "name": "zenn-docs",
+  "repository": "https://github.com/fuji-nakahara/zenn-docs.git",
+  "author": "Fuji Nakahara <fujinakahara2032@gmail.com>",
+  "license": "CC-BY-4.0",
+  "private": true,
+  "devDependencies": {
+    "zenn-cli": "^0.1.121"
+  }
+}
